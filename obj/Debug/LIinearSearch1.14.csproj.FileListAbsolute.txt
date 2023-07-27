@@ -1,0 +1,8 @@
+E:\Assisted project\Section 8\LIinearSearch1.14\bin\Debug\LIinearSearch1.14.exe.config
+E:\Assisted project\Section 8\LIinearSearch1.14\bin\Debug\LIinearSearch1.14.exe
+E:\Assisted project\Section 8\LIinearSearch1.14\bin\Debug\LIinearSearch1.14.pdb
+E:\Assisted project\Section 8\LIinearSearch1.14\obj\Debug\LIinearSearch1.14.csproj.AssemblyReference.cache
+E:\Assisted project\Section 8\LIinearSearch1.14\obj\Debug\LIinearSearch1.14.csproj.SuggestedBindingRedirects.cache
+E:\Assisted project\Section 8\LIinearSearch1.14\obj\Debug\LIinearSearch1.14.csproj.CoreCompileInputs.cache
+E:\Assisted project\Section 8\LIinearSearch1.14\obj\Debug\LIinearSearch1.14.exe
+E:\Assisted project\Section 8\LIinearSearch1.14\obj\Debug\LIinearSearch1.14.pdb
